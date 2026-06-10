@@ -1,5 +1,5 @@
 {
-  "name": "iptv-web",
+  "name": "sayem-tv",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "parse-channels": "node scripts/parse-tv1-channels.mjs"
+    "parse-channels": "node scripts/parse-channel-export.mjs",
+    "merge-github-channels": "node scripts/merge-github-channels.mjs",
+    "fix-logos": "node scripts/validate-and-fix-logos.mjs",
+    "generate-pwa-icons": "node scripts/generate-pwa-icons.mjs",
+    "list-placeholder-logos": "node scripts/list-placeholder-logos.mjs"
   },
   "dependencies": {
     "hls.js": "^1.5.20",
@@ -19,6 +23,7 @@
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "typescript": "^5.7.0"
+    "typescript": "^5.7.0",
+    "sharp": "^0.33.5"
   }
 }

@@ -1,0 +1,1503 @@
+{
+  "count": 214,
+  "channels": [
+    {
+      "name": "Russia Today Ⓖ",
+      "category": "news",
+      "streamUrl": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "logoAlt": "Russia Today Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "GB News",
+      "category": "news",
+      "streamUrl": "https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8",
+      "logoAlt": "GB News",
+      "logoUrl": ""
+    },
+    {
+      "name": "TRT World",
+      "category": "news",
+      "streamUrl": "https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8",
+      "logoAlt": "TRT World",
+      "logoUrl": ""
+    },
+    {
+      "name": "Somoy Tv",
+      "category": "news",
+      "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8",
+      "logoAlt": "Somoy Tv",
+      "logoUrl": ""
+    },
+    {
+      "name": "Sports Fishing TV",
+      "category": "channels",
+      "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8",
+      "logoAlt": "Sports Fishing TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "PBS Kids",
+      "category": "kids",
+      "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR",
+      "logoAlt": "PBS Kids",
+      "logoUrl": ""
+    },
+    {
+      "name": "India TV Ⓨ",
+      "category": "india",
+      "streamUrl": "https://www.youtube.com/watch?v=e1FIApIafWE",
+      "logoAlt": "India TV Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Republic Bharat Ⓨ",
+      "category": "india",
+      "streamUrl": "https://www.youtube.com/watch?v=3DbTO_AMhhc",
+      "logoAlt": "Republic Bharat Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "ABP Ananda",
+      "category": "india",
+      "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8",
+      "logoAlt": "ABP Ananda",
+      "logoUrl": ""
+    },
+    {
+      "name": "News18 Bangla",
+      "category": "india",
+      "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8",
+      "logoAlt": "News18 Bangla",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV9 Bangla",
+      "category": "india",
+      "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_480p/chunks.m3u8",
+      "logoAlt": "TV9 Bangla",
+      "logoUrl": ""
+    },
+    {
+      "name": "TSports HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/Tsports/index.m3u8",
+      "logoAlt": "TSports HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR SPORTS2",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarSports2/index.m3u8",
+      "logoAlt": "STAR SPORTS2",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR SPORTS SELECT1 HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarSportsSelect1/index.m3u8",
+      "logoAlt": "STAR SPORTS SELECT1 HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR SPORTS SELECT2 HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarSportsSelect2/index.m3u8",
+      "logoAlt": "STAR SPORTS SELECT2 HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "SONY SPORTS 2 HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/SonyTenSports2/index.m3u8",
+      "logoAlt": "SONY SPORTS 2 HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "SONY SPORTS 5 HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/SonyTenSports5/index.m3u8",
+      "logoAlt": "SONY SPORTS 5 HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "EURO SPORTS HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/Eurosport/index.m3u8",
+      "logoAlt": "EURO SPORTS HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "NAGORIK",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/nagorik/index.m3u8",
+      "logoAlt": "NAGORIK",
+      "logoUrl": ""
+    },
+    {
+      "name": "NEWS24 HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/News24/index.m3u8",
+      "logoAlt": "NEWS24 HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "Jalsha Movies HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/JalshaMovies/index.m3u8",
+      "logoAlt": "Jalsha Movies HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "COLOR BANGLA",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8",
+      "logoAlt": "COLOR BANGLA",
+      "logoUrl": ""
+    },
+    {
+      "name": "ZEE BANGLA CHINEMA HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8",
+      "logoAlt": "ZEE BANGLA CHINEMA HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "SONY AATH",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/SonyAath/index.m3u8",
+      "logoAlt": "SONY AATH",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR PLUS HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarPlus/index.m3u8",
+      "logoAlt": "STAR PLUS HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "SONY TV HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/SonyTv/index.m3u8",
+      "logoAlt": "SONY TV HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "SONY MAX HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/SonyMAX/index.m3u8",
+      "logoAlt": "SONY MAX HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR GOLD HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarGold/index.m3u8",
+      "logoAlt": "STAR GOLD HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "STAR MOVIES HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/StarMovies/index.m3u8",
+      "logoAlt": "STAR MOVIES HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "ZEE TV HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/ZeeTV/index.m3u8",
+      "logoAlt": "ZEE TV HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "DISCOVERY HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/Discovery/index.m3u8",
+      "logoAlt": "DISCOVERY HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/NationalGeographic/index.m3u8",
+      "logoAlt": "NATIONAL GEOGRAPHIC HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "CARTOON NETWORK HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/CartoonNetwork/index.m3u8",
+      "logoAlt": "CARTOON NETWORK HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "DISCOVERY KIDS HD",
+      "category": "other",
+      "streamUrl": "http://198.195.239.50:8095/DiscoveryKids/index.m3u8",
+      "logoAlt": "DISCOVERY KIDS HD",
+      "logoUrl": ""
+    },
+    {
+      "name": "News 24 Ⓢ",
+      "category": "albania",
+      "streamUrl": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+      "logoAlt": "News 24 Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "TN Todo Noticias Ⓨ",
+      "category": "argentina",
+      "streamUrl": "https://www.youtube.com/c/todonoticias/live",
+      "logoAlt": "TN Todo Noticias Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Беларусь 1",
+      "category": "belarus",
+      "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8",
+      "logoAlt": "Беларусь 1",
+      "logoUrl": ""
+    },
+    {
+      "name": "Беларусь 2",
+      "category": "belarus",
+      "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+      "logoAlt": "Беларусь 2",
+      "logoUrl": ""
+    },
+    {
+      "name": "Беларусь 3",
+      "category": "belarus",
+      "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+      "logoAlt": "Беларусь 3",
+      "logoUrl": ""
+    },
+    {
+      "name": "СТВ",
+      "category": "belarus",
+      "streamUrl": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+      "logoAlt": "СТВ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Беларусь 5",
+      "category": "belarus",
+      "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+      "logoAlt": "Беларусь 5",
+      "logoUrl": ""
+    },
+    {
+      "name": "Беларусь 24",
+      "category": "belarus",
+      "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+      "logoAlt": "Беларусь 24",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTV HB Ⓢ",
+      "category": "bosnia-and-herzegovina",
+      "streamUrl": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+      "logoAlt": "RTV HB Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "RBC Ⓨ",
+      "category": "brazil",
+      "streamUrl": "https://www.youtube.com/watch?v=oUdd3CsxYaE",
+      "logoAlt": "RBC Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV Cultura",
+      "category": "brazil",
+      "streamUrl": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+      "logoAlt": "TV Cultura",
+      "logoUrl": ""
+    },
+    {
+      "name": "ISTV",
+      "category": "brazil",
+      "streamUrl": "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8",
+      "logoAlt": "ISTV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Rede Brasil",
+      "category": "brazil",
+      "streamUrl": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+      "logoAlt": "Rede Brasil",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV1",
+      "category": "bulgaria",
+      "streamUrl": "https://tv1.cloudcdn.bg/temp/livestream.m3u8",
+      "logoAlt": "TV1",
+      "logoUrl": ""
+    },
+    {
+      "name": "ICI RDI",
+      "category": "canada",
+      "streamUrl": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+      "logoAlt": "ICI RDI",
+      "logoUrl": ""
+    },
+    {
+      "name": "Televizija Slavonije i Baranje (STV)",
+      "category": "croatia",
+      "streamUrl": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+      "logoAlt": "Televizija Slavonije i Baranje (STV)",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV Nova",
+      "category": "croatia",
+      "streamUrl": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+      "logoAlt": "TV Nova",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV Jadran",
+      "category": "croatia",
+      "streamUrl": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+      "logoAlt": "TV Jadran",
+      "logoUrl": ""
+    },
+    {
+      "name": "Libertas TV",
+      "category": "croatia",
+      "streamUrl": "https://stream.luci.xyz/hls/LTV.m3u8",
+      "logoAlt": "Libertas TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "RIK Sat",
+      "category": "cyprus",
+      "streamUrl": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "logoAlt": "RIK Sat",
+      "logoUrl": ""
+    },
+    {
+      "name": "Huda TV",
+      "category": "egypt",
+      "streamUrl": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+      "logoAlt": "Huda TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Al Ghad Plus",
+      "category": "egypt",
+      "streamUrl": "https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8",
+      "logoAlt": "Al Ghad Plus",
+      "logoUrl": ""
+    },
+    {
+      "name": "Aghapy TV",
+      "category": "egypt",
+      "streamUrl": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+      "logoAlt": "Aghapy TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Al Ghad TV",
+      "category": "egypt",
+      "streamUrl": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+      "logoAlt": "Al Ghad TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Watan TV",
+      "category": "egypt",
+      "streamUrl": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+      "logoAlt": "Watan TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Koogi TV",
+      "category": "egypt",
+      "streamUrl": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+      "logoAlt": "Koogi TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Alhayat TV",
+      "category": "egypt",
+      "streamUrl": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
+      "logoAlt": "Alhayat TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "YleX Studio Live",
+      "category": "finland",
+      "streamUrl": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+      "logoAlt": "YleX Studio Live",
+      "logoUrl": ""
+    },
+    {
+      "name": "NRJ 12",
+      "category": "france",
+      "streamUrl": "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8",
+      "logoAlt": "NRJ 12",
+      "logoUrl": ""
+    },
+    {
+      "name": "franceinfo: Ⓨ",
+      "category": "france",
+      "streamUrl": "https://www.youtube.com/c/franceinfo/live",
+      "logoAlt": "franceinfo: Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "LCP",
+      "category": "france",
+      "streamUrl": "https://lcp.fr/le-live-lcp-tnt-5433",
+      "logoAlt": "LCP",
+      "logoUrl": ""
+    },
+    {
+      "name": "Tingvarp",
+      "category": "faroe-islands",
+      "streamUrl": "https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8",
+      "logoAlt": "Tingvarp",
+      "logoUrl": ""
+    },
+    {
+      "name": "First Channel (1TV)",
+      "category": "georgia",
+      "streamUrl": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+      "logoAlt": "First Channel (1TV)",
+      "logoUrl": ""
+    },
+    {
+      "name": "Imedi TV",
+      "category": "georgia",
+      "streamUrl": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+      "logoAlt": "Imedi TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Das Erste Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+      "logoAlt": "Das Erste Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "DELUXE MUSIC DANCE BY KONTOR",
+      "category": "germany",
+      "streamUrl": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+      "logoAlt": "DELUXE MUSIC DANCE BY KONTOR",
+      "logoUrl": ""
+    },
+    {
+      "name": "ARD Alpha Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+      "logoAlt": "ARD Alpha Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "DELUXE MUSIC RAP",
+      "category": "germany",
+      "streamUrl": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+      "logoAlt": "DELUXE MUSIC RAP",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews Deutsch Ⓨ",
+      "category": "germany",
+      "streamUrl": "https://www.youtube.com/euronewsde/live",
+      "logoAlt": "Euronews Deutsch Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Tagesschau24",
+      "category": "germany",
+      "streamUrl": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+      "logoAlt": "Tagesschau24",
+      "logoUrl": ""
+    },
+    {
+      "name": "KiKa Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+      "logoAlt": "KiKa Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "HR Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8",
+      "logoAlt": "HR Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "BR Nord Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8",
+      "logoAlt": "BR Nord Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "NDR Hamburg Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+      "logoAlt": "NDR Hamburg Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "NDR Niedersachsen Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8",
+      "logoAlt": "NDR Niedersachsen Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "NDR Mecklenburg-Vorpommern Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8",
+      "logoAlt": "NDR Mecklenburg-Vorpommern Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "NDR Schleswig-Holstein Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8",
+      "logoAlt": "NDR Schleswig-Holstein Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "SR Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+      "logoAlt": "SR Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "NDR International",
+      "category": "germany",
+      "streamUrl": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+      "logoAlt": "NDR International",
+      "logoUrl": ""
+    },
+    {
+      "name": "WDR Ⓖ",
+      "category": "germany",
+      "streamUrl": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+      "logoAlt": "WDR Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Lychnos",
+      "category": "greece",
+      "streamUrl": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
+      "logoAlt": "Lychnos",
+      "logoUrl": ""
+    },
+    {
+      "name": "Η Φωνή της Ελλάδας",
+      "category": "greece",
+      "streamUrl": "https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd",
+      "logoAlt": "Η Φωνή της Ελλάδας",
+      "logoUrl": ""
+    },
+    {
+      "name": "Radio 1 Ⓨ",
+      "category": "hungary",
+      "streamUrl": "https://www.youtube.com/watch?v=I8dnZoF1nOE",
+      "logoAlt": "Radio 1 Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Oxygen Music",
+      "category": "hungary",
+      "streamUrl": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+      "logoAlt": "Oxygen Music",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews Hungarian Ⓨ",
+      "category": "hungary",
+      "streamUrl": "https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live",
+      "logoAlt": "Euronews Hungarian Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "CityTV (Belváros Lipótváros)",
+      "category": "hungary",
+      "streamUrl": "https://citytv.hu/playlist.m3u8",
+      "logoAlt": "CityTV (Belváros Lipótváros)",
+      "logoUrl": ""
+    },
+    {
+      "name": "AlföldTV",
+      "category": "hungary",
+      "streamUrl": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
+      "logoAlt": "AlföldTV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Líceum TV",
+      "category": "hungary",
+      "streamUrl": "http://193.225.32.62:8890/live.m3u8",
+      "logoAlt": "Líceum TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Jászsági Térségi TV",
+      "category": "hungary",
+      "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+      "logoAlt": "Jászsági Térségi TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Kanizsa TV",
+      "category": "hungary",
+      "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
+      "logoAlt": "Kanizsa TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "Zugló TV",
+      "category": "hungary",
+      "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+      "logoAlt": "Zugló TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "CNN Indonesia",
+      "category": "indonesia",
+      "streamUrl": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+      "logoAlt": "CNN Indonesia",
+      "logoUrl": ""
+    },
+    {
+      "name": "CNBC Indonesia",
+      "category": "indonesia",
+      "streamUrl": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8",
+      "logoAlt": "CNBC Indonesia",
+      "logoUrl": ""
+    },
+    {
+      "name": "FM104",
+      "category": "ireland",
+      "streamUrl": "https://wg.cdn.tibus.net/fm104MP3128",
+      "logoAlt": "FM104",
+      "logoUrl": ""
+    },
+    {
+      "name": "Spin 103.8",
+      "category": "ireland",
+      "streamUrl": "https://stream.audioxi.com/SP",
+      "logoAlt": "Spin 103.8",
+      "logoUrl": ""
+    },
+    {
+      "name": "98FM",
+      "category": "ireland",
+      "streamUrl": "https://stream.audioxi.com/98",
+      "logoAlt": "98FM",
+      "logoUrl": ""
+    },
+    {
+      "name": "Today FM",
+      "category": "ireland",
+      "streamUrl": "https://stream.audioxi.com/TDAAC",
+      "logoAlt": "Today FM",
+      "logoUrl": ""
+    },
+    {
+      "name": "Classic Hits",
+      "category": "ireland",
+      "streamUrl": "https://stream.audioxi.com/CLASSIC",
+      "logoAlt": "Classic Hits",
+      "logoUrl": ""
+    },
+    {
+      "name": "Newstalk",
+      "category": "ireland",
+      "streamUrl": "https://stream.audioxi.com/NT",
+      "logoAlt": "Newstalk",
+      "logoUrl": ""
+    },
+    {
+      "name": "Sunshine 106.8",
+      "category": "ireland",
+      "streamUrl": "https://live-bauerie.sharp-stream.com/SUN",
+      "logoAlt": "Sunshine 106.8",
+      "logoUrl": ""
+    },
+    {
+      "name": "ערוץ 13",
+      "category": "israel",
+      "streamUrl": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+      "logoAlt": "ערוץ 13",
+      "logoUrl": ""
+    },
+    {
+      "name": "Esperia Tv",
+      "category": "italy",
+      "streamUrl": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8",
+      "logoAlt": "Esperia Tv",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews Italian Ⓨ",
+      "category": "italy",
+      "streamUrl": "https://www.youtube.com/user/euronewsit/live",
+      "logoAlt": "Euronews Italian Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "SBS TV",
+      "category": "korea",
+      "streamUrl": "https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8",
+      "logoAlt": "SBS TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "KBS 1TV",
+      "category": "korea",
+      "streamUrl": "http://mytv.dothome.co.kr/ch/public/1.php",
+      "logoAlt": "KBS 1TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "EBS 1 Ⓢ",
+      "category": "korea",
+      "streamUrl": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+      "logoAlt": "EBS 1 Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "EBS 2 Ⓢ",
+      "category": "korea",
+      "streamUrl": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+      "logoAlt": "EBS 2 Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "ReTV",
+      "category": "latvia",
+      "streamUrl": "https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+      "logoAlt": "ReTV",
+      "logoUrl": ""
+    },
+    {
+      "name": "LRT Lituanica",
+      "category": "lithuania",
+      "streamUrl": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+      "logoAlt": "LRT Lituanica",
+      "logoUrl": ""
+    },
+    {
+      "name": "Chamber TV",
+      "category": "luxembourg",
+      "streamUrl": "https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8",
+      "logoAlt": "Chamber TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTL Télé Lëtzebuerg",
+      "category": "luxembourg",
+      "streamUrl": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+      "logoAlt": "RTL Télé Lëtzebuerg",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTL Zwee",
+      "category": "luxembourg",
+      "streamUrl": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
+      "logoAlt": "RTL Zwee",
+      "logoUrl": ""
+    },
+    {
+      "name": "4fun.tv Ⓢ",
+      "category": "poland",
+      "streamUrl": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+      "logoAlt": "4fun.tv Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "TVP2",
+      "category": "poland",
+      "streamUrl": "https://strims.top/tv/tvp2.m3u8",
+      "logoAlt": "TVP2",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTP1",
+      "category": "portugal",
+      "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
+      "logoAlt": "RTP1",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTP2 Ⓖ",
+      "category": "portugal",
+      "streamUrl": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+      "logoAlt": "RTP2 Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTP Açores",
+      "category": "portugal",
+      "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+      "logoAlt": "RTP Açores",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTP Madeira Ⓢ",
+      "category": "portugal",
+      "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
+      "logoAlt": "RTP Madeira Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "RTP3",
+      "category": "portugal",
+      "streamUrl": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=",
+      "logoAlt": "RTP3",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews em Português Ⓨ",
+      "category": "portugal",
+      "streamUrl": "https://www.youtube.com/euronewspt/live",
+      "logoAlt": "Euronews em Português Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Al Jazeera Mubasher",
+      "category": "qatar",
+      "streamUrl": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "logoAlt": "Al Jazeera Mubasher",
+      "logoUrl": ""
+    },
+    {
+      "name": "Россия 1",
+      "category": "russia",
+      "streamUrl": "https://player.smotrim.ru/iframe/stream/live_id/2961",
+      "logoAlt": "Россия 1",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews по-русски Ⓨ",
+      "category": "russia",
+      "streamUrl": "https://www.youtube.com/euronewsru/live",
+      "logoAlt": "Euronews по-русски Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Запад 24",
+      "category": "russia",
+      "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8",
+      "logoAlt": "Запад 24",
+      "logoUrl": ""
+    },
+    {
+      "name": "РТР-Планета Ⓢ",
+      "category": "russia",
+      "streamUrl": "https://player.smotrim.ru/iframe/stream/live_id/63251",
+      "logoAlt": "РТР-Планета Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "ETB1",
+      "category": "spain",
+      "streamUrl": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
+      "logoAlt": "ETB1",
+      "logoUrl": ""
+    },
+    {
+      "name": "ETB2",
+      "category": "spain",
+      "streamUrl": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
+      "logoAlt": "ETB2",
+      "logoUrl": ""
+    },
+    {
+      "name": "TV3Cat Ⓖ",
+      "category": "spain",
+      "streamUrl": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+      "logoAlt": "TV3Cat Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "7 Región de Murcia Ⓢ",
+      "category": "spain",
+      "streamUrl": "https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
+      "logoAlt": "7 Región de Murcia Ⓢ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Bon Dia",
+      "category": "spain",
+      "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+      "logoAlt": "Bon Dia",
+      "logoUrl": ""
+    },
+    {
+      "name": "TaiwanPlus Ⓨ",
+      "category": "taiwan",
+      "streamUrl": "https://www.youtube.com/watch?v=dZp87qnWelE",
+      "logoAlt": "TaiwanPlus Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "CTV News Channel (中視新聞台) Ⓨ",
+      "category": "taiwan",
+      "streamUrl": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "logoAlt": "CTV News Channel (中視新聞台) Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "PTS Taigi (公視台語台) Ⓨ Ⓖ",
+      "category": "taiwan",
+      "streamUrl": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
+      "logoAlt": "PTS Taigi (公視台語台) Ⓨ Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "TTV Main Channel (臺灣電視台) Ⓨ Ⓖ",
+      "category": "taiwan",
+      "streamUrl": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "logoAlt": "TTV Main Channel (臺灣電視台) Ⓨ Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "TTV News (台視新聞台) Ⓨ",
+      "category": "taiwan",
+      "streamUrl": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "logoAlt": "TTV News (台視新聞台) Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "GB News",
+      "category": "uk",
+      "streamUrl": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+      "logoAlt": "GB News",
+      "logoUrl": ""
+    },
+    {
+      "name": "Now Rock",
+      "category": "uk",
+      "streamUrl": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+      "logoAlt": "Now Rock",
+      "logoUrl": ""
+    },
+    {
+      "name": "ICTV Serialy",
+      "category": "ukraine",
+      "streamUrl": "http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8",
+      "logoAlt": "ICTV Serialy",
+      "logoUrl": ""
+    },
+    {
+      "name": "5 Kanal",
+      "category": "ukraine",
+      "streamUrl": "https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D",
+      "logoAlt": "5 Kanal",
+      "logoUrl": ""
+    },
+    {
+      "name": "Cartoon Network Arabic",
+      "category": "united-arab-emirates",
+      "streamUrl": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+      "logoAlt": "Cartoon Network Arabic",
+      "logoUrl": ""
+    },
+    {
+      "name": "Sharjah TV",
+      "category": "united-arab-emirates",
+      "streamUrl": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+      "logoAlt": "Sharjah TV",
+      "logoUrl": ""
+    },
+    {
+      "name": "RT العربية",
+      "category": "news-ar",
+      "streamUrl": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "logoAlt": "RT العربية",
+      "logoUrl": ""
+    },
+    {
+      "name": "Al Arabiya العربية",
+      "category": "news-ar",
+      "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "logoAlt": "Al Arabiya العربية",
+      "logoUrl": ""
+    },
+    {
+      "name": "RT Español Ⓖ",
+      "category": "news-es",
+      "streamUrl": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "logoAlt": "RT Español Ⓖ",
+      "logoUrl": ""
+    },
+    {
+      "name": "Euronews Español Ⓨ",
+      "category": "news-es",
+      "streamUrl": "https://www.youtube.com/euronewses/live",
+      "logoAlt": "Euronews Español Ⓨ",
+      "logoUrl": ""
+    },
+    {
+      "name": "LIG 🇪🇸",
+      "category": "other",
+      "streamUrl": "http://200.115.120.1:8000/play/ca124/index.m3u8",
+      "logoAlt": "LIG 🇪🇸",
+      "logoUrl": ""
+    },
+    {
+      "name": "SKY SPORT LALIGA 🇲🇽",
+      "category": "other",
+      "streamUrl": "http://190.92.10.66:4000/play/a001/index.m3u8",
+      "logoAlt": "SKY SPORT LALIGA 🇲🇽",
+      "logoUrl": ""
+    },
+    {
+      "name": "OTT CLUB 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8",
+      "logoAlt": "OTT CLUB 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "IDMANTV 🇹🇷",
+      "category": "other",
+      "streamUrl": "https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8",
+      "logoAlt": "IDMANTV 🇹🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8",
+      "logoAlt": "Матч! 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
+      "logoAlt": "Матч! 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "SKY SPORT LALIGA 🇲🇽",
+      "category": "other",
+      "streamUrl": "http://179.60.224.196:8000/play/a0i7/index.m3u8",
+      "logoAlt": "SKY SPORT LALIGA 🇲🇽",
+      "logoUrl": ""
+    },
+    {
+      "name": "DSPORTS 1 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
+      "logoAlt": "DSPORTS 1 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "ESPN 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://45.173.74.2:2010/play/a08a/index.m3u8",
+      "logoAlt": "ESPN 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "DSPORTS 1 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://190.117.20.37:8000/play/a08d/index.m3u8",
+      "logoAlt": "DSPORTS 1 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "DSPORTS 1 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://190.117.20.39:8000/play/a08d/index.m3u8",
+      "logoAlt": "DSPORTS 1 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "ESPN 2 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://191.97.49.82:8001/play/a00m/index.m3u8",
+      "logoAlt": "ESPN 2 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "МАТЧ! ФУТБOЛ 2HD 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/56.m3u8",
+      "logoAlt": "МАТЧ! ФУТБOЛ 2HD 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 1 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8",
+      "logoAlt": "Dazn 1 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 1 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8",
+      "logoAlt": "Dazn 1 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "Bein Sport 3 🇫🇷",
+      "category": "other",
+      "streamUrl": "http://145.239.5.177:80/559/index.m3u8",
+      "logoAlt": "Bein Sport 3 🇫🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 2 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8",
+      "logoAlt": "Dazn 2 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 3 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8",
+      "logoAlt": "Dazn 3 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "SKY SPORT LALIGA 🇲🇽",
+      "category": "other",
+      "streamUrl": "http://181.78.109.48:9998/play/a06r/index.m3u8",
+      "logoAlt": "SKY SPORT LALIGA 🇲🇽",
+      "logoUrl": ""
+    },
+    {
+      "name": "TNT SPORTS PREMIUM 🇬🇧",
+      "category": "other",
+      "streamUrl": "http://200.115.120.1:8000/play/ca040/index.m3u8",
+      "logoAlt": "TNT SPORTS PREMIUM 🇬🇧",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 4 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8",
+      "logoAlt": "Dazn 4 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "Dazn 5 🇵🇹",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8",
+      "logoAlt": "Dazn 5 🇵🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "CANAL + Sport 🇫🇷",
+      "category": "other",
+      "streamUrl": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
+      "logoAlt": "CANAL + Sport 🇫🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8",
+      "logoAlt": "Матч! 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://tv.tuva.ru/machtv/index.m3u8",
+      "logoAlt": "Матч! 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/48.m3u8",
+      "logoAlt": "Матч! 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Setanta Sport 🇺🇦",
+      "category": "other",
+      "streamUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
+      "logoAlt": "Setanta Sport 🇺🇦",
+      "logoUrl": ""
+    },
+    {
+      "name": "Матч! Футбол 3 HD 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://185.57.68.33:8091/110/playlist.m3u8",
+      "logoAlt": "Матч! Футбол 3 HD 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Футбол 3 (SD) 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://185.57.68.33:80/110/index.m3u8",
+      "logoAlt": "Футбол 3 (SD) 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Суспільне Kiev Спорт HD 🇺🇦",
+      "category": "other",
+      "streamUrl": "https://tva.in.ua/live/susp-sport.m3u8",
+      "logoAlt": "Суспільне Kiev Спорт HD 🇺🇦",
+      "logoUrl": ""
+    },
+    {
+      "name": "CT SPORT HD 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+      "logoAlt": "CT SPORT HD 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "SPORT 2 HD 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://88.212.15.19/live/test_sport_2/playlist.m3u8",
+      "logoAlt": "SPORT 2 HD 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "SPORT 1 HD 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8",
+      "logoAlt": "SPORT 1 HD 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "ARENA SPORT 1 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+      "logoAlt": "ARENA SPORT 1 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "Setenta Sport 1 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/1021.m3u8",
+      "logoAlt": "Setenta Sport 1 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "ARENA SPORT 2 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+      "logoAlt": "ARENA SPORT 2 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "Setenta Sport 2 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/1022.m3u8",
+      "logoAlt": "Setenta Sport 2 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "NOVA SPORT 1 HD 🇨🇿",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8",
+      "logoAlt": "NOVA SPORT 1 HD 🇨🇿",
+      "logoUrl": ""
+    },
+    {
+      "name": "МАТЧ! ФУТБOЛ 1HD 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/55.m3u8",
+      "logoAlt": "МАТЧ! ФУТБOЛ 1HD 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "МАТЧ! ФУТБOЛ 3HD 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://cdntv.online/low/9mlxywika2/57.m3u8",
+      "logoAlt": "МАТЧ! ФУТБOЛ 3HD 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "CAZE TV 1 🇧🇷",
+      "category": "other",
+      "streamUrl": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+      "logoAlt": "CAZE TV 1 🇧🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "ZIGGO SPORT 2 HD 🇳🇱",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8",
+      "logoAlt": "ZIGGO SPORT 2 HD 🇳🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "2TV Sport 🇳🇴",
+      "category": "other",
+      "streamUrl": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+      "logoAlt": "2TV Sport 🇳🇴",
+      "logoUrl": ""
+    },
+    {
+      "name": "ZIGGO SPORT 3 HD 🇳🇱",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8",
+      "logoAlt": "ZIGGO SPORT 3 HD 🇳🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "ZIGGO SPORT LIVE 🇳🇱",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8",
+      "logoAlt": "ZIGGO SPORT LIVE 🇳🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "TELEMUNDO 🇲🇽",
+      "category": "other",
+      "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "logoAlt": "TELEMUNDO 🇲🇽",
+      "logoUrl": ""
+    },
+    {
+      "name": "TELEFE 🇦🇷",
+      "category": "other",
+      "streamUrl": "http://200.115.120.1:8000/play/ca016/index.m3u8",
+      "logoAlt": "TELEFE 🇦🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "5 SPORT 🇮🇱",
+      "category": "other",
+      "streamUrl": "http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8",
+      "logoAlt": "5 SPORT 🇮🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "X SPORT 🇷🇺",
+      "category": "other",
+      "streamUrl": "http://iptv.prosto.tv:7000/ch109/video.m3u8",
+      "logoAlt": "X SPORT 🇷🇺",
+      "logoUrl": ""
+    },
+    {
+      "name": "Turkmenistan Sport 🇹🇲",
+      "category": "other",
+      "streamUrl": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8",
+      "logoAlt": "Turkmenistan Sport 🇹🇲",
+      "logoUrl": ""
+    },
+    {
+      "name": "MASR 🇶🇦",
+      "category": "other",
+      "streamUrl": "https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+      "logoAlt": "MASR 🇶🇦",
+      "logoUrl": ""
+    },
+    {
+      "name": "WIN SPORT 🇨🇴",
+      "category": "other",
+      "streamUrl": "http://181.205.205.173:8888/play/a0h0/index.m3u8",
+      "logoAlt": "WIN SPORT 🇨🇴",
+      "logoUrl": ""
+    },
+    {
+      "name": "INFOSPORT 🇫🇷",
+      "category": "other",
+      "streamUrl": "http://212.102.60.80/Infosport/index.m3u8",
+      "logoAlt": "INFOSPORT 🇫🇷",
+      "logoUrl": ""
+    },
+    {
+      "name": "Sport5 🇮🇱",
+      "category": "other",
+      "streamUrl": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8",
+      "logoAlt": "Sport5 🇮🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "MMN Sport 🇸🇦",
+      "category": "other",
+      "streamUrl": "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8",
+      "logoAlt": "MMN Sport 🇸🇦",
+      "logoUrl": ""
+    },
+    {
+      "name": "TR Sport (480p) 🇮🇹",
+      "category": "other",
+      "streamUrl": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+      "logoAlt": "TR Sport (480p) 🇮🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "Turkmenistan Sport 🇹🇲",
+      "category": "other",
+      "streamUrl": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8",
+      "logoAlt": "Turkmenistan Sport 🇹🇲",
+      "logoUrl": ""
+    },
+    {
+      "name": "Fox Sports 🇮🇳",
+      "category": "other",
+      "streamUrl": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
+      "logoAlt": "Fox Sports 🇮🇳",
+      "logoUrl": ""
+    },
+    {
+      "name": "MTR Sports-1 🇬🇧",
+      "category": "other",
+      "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+      "logoAlt": "MTR Sports-1 🇬🇧",
+      "logoUrl": ""
+    },
+    {
+      "name": "TELETRAK 🇨🇱",
+      "category": "other",
+      "streamUrl": "http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+      "logoAlt": "TELETRAK 🇨🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "TELECOSTA GUATEMALA 🇬🇹",
+      "category": "other",
+      "streamUrl": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+      "logoAlt": "TELECOSTA GUATEMALA 🇬🇹",
+      "logoUrl": ""
+    },
+    {
+      "name": "ESPN 2 🇨🇴",
+      "category": "other",
+      "streamUrl": "http://200.10.30.241:8000/play/a01r/index.m3u8",
+      "logoAlt": "ESPN 2 🇨🇴",
+      "logoUrl": ""
+    },
+    {
+      "name": "ON Sports+ 🇭🇰",
+      "category": "other",
+      "streamUrl": "https://freem3u.xyz/api/live/play.m3u8",
+      "logoAlt": "ON Sports+ 🇭🇰",
+      "logoUrl": ""
+    },
+    {
+      "name": "Sport5 🇮🇱",
+      "category": "other",
+      "streamUrl": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8",
+      "logoAlt": "Sport5 🇮🇱",
+      "logoUrl": ""
+    },
+    {
+      "name": "TUDN 🇲🇽",
+      "category": "other",
+      "streamUrl": "http://45.5.119.43:4000/play/a05q/index.m3u8",
+      "logoAlt": "TUDN 🇲🇽",
+      "logoUrl": ""
+    }
+  ]
+}
